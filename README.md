@@ -10,7 +10,7 @@ All rights belong to the respective authors, unless otherwise stated.
 All code and other content developed by other members of the team will be placed in the folder "other_teammembers".
 
 This repository was created for two reasons:
-  1. To ensure continued access to project files should the original repository be deleted, and to link it to my non-student email.
+  1. To ensure continued access to project files should the original repository be deleted, and to link it to my non-student GitHub account, so that it may be used for portfolio purposes.
   2. As a repository to hold additional post-project work completed separately by myself.
 
 
