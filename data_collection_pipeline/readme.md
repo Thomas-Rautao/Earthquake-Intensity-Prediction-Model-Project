@@ -1,1 +1,1 @@
-This folder contains the data collection pipeline developed by myself and used to create the final dataset for the project.
+This folder contains the data collection pipeline I developed, which creates the dataset used by the project.
