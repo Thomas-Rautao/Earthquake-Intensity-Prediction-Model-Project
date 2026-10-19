@@ -5,3 +5,5 @@ https://github.com/ghn20uc
 
 The original working repository can be found at:
 https://github.com/ghn20uc/Project-Silvanus
+
+All credits and rights to the original authors.
